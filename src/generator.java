@@ -2,7 +2,7 @@
 import java.security.SecureRandom;
 
 // Main file class
-public class genrator {
+public class generator {
     // make this const
     private  final SecureRandom RANDOM = new SecureRandom();
     // Make a string methods
